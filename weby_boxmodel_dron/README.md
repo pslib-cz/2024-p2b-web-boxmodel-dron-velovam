@@ -1,1 +1,0 @@
-# BoxModel DJI mini
